@@ -4,14 +4,14 @@
 웹사이트 특성상, 카카오 API를 사용한 것이 있어 
 모든 소스코드를 공개했지만, API 부분은 *검열* 처리 해뒀습니다.
 
-###검열된 파일 이름들
+### 검열된 파일 이름들
 mapview.jsp 
 TestController.java
 MainController.java
 MapController.java
 CN_UserController.java
 
-###참가한 팀원 개요
+### 참가한 팀원 개요
 |팀원명|수행역할|설명|
 |:---:|:---|:---|
 |김형주|백엔드|데이터 처리 및 서버 관련 기능 구현을 담당|
