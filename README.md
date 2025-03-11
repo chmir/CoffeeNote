@@ -1,15 +1,24 @@
 # CoffeeNote
-2024년도 6~9월쯤에 대우능력개발원에서 진행했던 팀 웹 프로젝트입니다
+2024년도 6~9월쯤에 대우능력개발원에서 진행했던 팀 웹 프로젝트입니다. 
+
 추가 설명은 추후에 기재하겠습니다. 
+
 웹사이트 특성상, 카카오 API를 사용한 것이 있어 
-모든 소스코드를 공개했지만, API 부분은 *검열* 처리 해뒀습니다.
+
+모든 소스코드를 공개했지만, API 부분은 *검열* 처리 해뒀습니다. 
+
 
 ### 검열된 파일 이름들
 mapview.jsp 
-TestController.java
-MainController.java
-MapController.java
-CN_UserController.java
+
+TestController.java 
+
+MainController.java 
+
+MapController.java 
+
+CN_UserController.java 
+
 
 ### 참가한 팀원 개요
 |팀원명|수행역할|설명|
@@ -20,5 +29,5 @@ CN_UserController.java
 |임혁진|프론트엔드|전체적인 프론트엔드 개발을 주도하고 UI/UX 구현을 책임|
 |천미르|프로젝트 총괄, 백엔드|팀의 진행 상황을 전체적으로 관리하고, 백엔드 기능 구현을 주도|
 
-### 추후 추가할 것
+### 추후 추가할 것 
 시연 영상(이해를 돕기 위함), sql파일들(기본적인 테이블들이 있어야 작동하므로), 작업 후기
