@@ -199,7 +199,7 @@ public class TestController {
             URL url = new URL(fullURL);
             HttpURLConnection conn = (HttpURLConnection) url.openConnection();
             conn.setRequestMethod("GET");
-            conn.setRequestProperty("Authorization", "KakaoAK d62ba25ad3592252ed507300e683b0aa");
+            conn.setRequestProperty("Authorization", "KakaoAK *검열*");
 
             String data = "";
 
